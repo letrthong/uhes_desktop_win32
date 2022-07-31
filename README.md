@@ -4,4 +4,4 @@ https://www.electronjs.org/
 https://nodejs.org/en/
 
 # Support 
-windows 10
+Windows 10
